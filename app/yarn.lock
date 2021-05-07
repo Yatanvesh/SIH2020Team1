@@ -5392,9 +5392,10 @@ react-native-geocoding@^0.4.0:
   resolved "https://registry.yarnpkg.com/react-native-geocoding/-/react-native-geocoding-0.4.0.tgz#e22c97500bfccc25273499ab3af87c27ac6ede8f"
   integrity sha512-iXIqdLHDGVyhWLJyWGRFRdvQa3hDQoCX4MLwKA9zja3gQxZ91v51CLGrbvxCckOGzoxu2/WA6e8TM74rrPxlsA==
 
-"react-native-maps@git+https://git@github.com/react-native-community/react-native-maps.git":
-  version "0.26.1"
-  resolved "git+https://git@github.com/react-native-community/react-native-maps.git#f8b255e40bef3a68fe3134c08a5219d7ffa173f9"
+react-native-maps-osmdroid@^0.23.0-rc4:
+  version "0.23.0-rc4"
+  resolved "https://registry.yarnpkg.com/react-native-maps-osmdroid/-/react-native-maps-osmdroid-0.23.0-rc4.tgz#7cc4c9bb344d8a3c30b098a030f9d500308885c8"
+  integrity sha512-9soWeBEA3aAeMjt8sWEeJ1NBdtRPde9KJL6EH1GPDSrpVY+CTznEMDys/T5M2yZxgkyZrJju5pR8gvcB+Dn2nw==
 
 react-native-pie-chart@^1.0.13:
   version "1.0.13"
@@ -6475,9 +6476,9 @@ typedarray@^0.0.6:
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
 ua-parser-js@^0.7.18:
-  version "0.7.20"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.20.tgz#7527178b82f6a62a0f243d1f94fd30e3e3c21098"
-  integrity sha512-8OaIKfzL5cpx8eCMAhhvTlft8GYF8b2eQr6JkCyVdrgjcytyOmPCXrqXFcUnhonRpLlh5yxEZVohm6mzaowUOw==
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
+  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 uglify-es@^3.1.9:
   version "3.3.9"
