@@ -5185,9 +5185,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-type@^2.0.0:
   version "2.0.0"
@@ -5392,9 +5392,10 @@ react-native-geocoding@^0.4.0:
   resolved "https://registry.yarnpkg.com/react-native-geocoding/-/react-native-geocoding-0.4.0.tgz#e22c97500bfccc25273499ab3af87c27ac6ede8f"
   integrity sha512-iXIqdLHDGVyhWLJyWGRFRdvQa3hDQoCX4MLwKA9zja3gQxZ91v51CLGrbvxCckOGzoxu2/WA6e8TM74rrPxlsA==
 
-"react-native-maps@git+https://git@github.com/react-native-community/react-native-maps.git":
-  version "0.26.1"
-  resolved "git+https://git@github.com/react-native-community/react-native-maps.git#f8b255e40bef3a68fe3134c08a5219d7ffa173f9"
+react-native-maps-osmdroid@^0.23.0-rc4:
+  version "0.23.0-rc4"
+  resolved "https://registry.yarnpkg.com/react-native-maps-osmdroid/-/react-native-maps-osmdroid-0.23.0-rc4.tgz#7cc4c9bb344d8a3c30b098a030f9d500308885c8"
+  integrity sha512-9soWeBEA3aAeMjt8sWEeJ1NBdtRPde9KJL6EH1GPDSrpVY+CTznEMDys/T5M2yZxgkyZrJju5pR8gvcB+Dn2nw==
 
 react-native-pie-chart@^1.0.13:
   version "1.0.13"
