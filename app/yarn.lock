@@ -3984,11 +3984,9 @@ json-stringify-safe@~5.0.1:
   integrity sha1-Epai1Y/UXxmg9s4B1lcB4sc1tus=
 
 json5@^2.1.0:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/json5/-/json5-2.1.1.tgz#81b6cb04e9ba496f1c7005d07b4368a2638f90b6"
-  integrity sha512-l+3HXD0GEI3huGq1njuqtzYK8OYJyXMkOLtQ53pjWh89tvWS2h6l+1zMkYWqlb57+SiQodKZyvMEFb2X+KrFhQ==
-  dependencies:
-    minimist "^1.2.0"
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/json5/-/json5-2.2.3.tgz#78cd6f1a19bdc12b73db5ad0c61efd66c1e29283"
+  integrity sha512-XmOWe7eyHYH14cLdVPoyg+GOH3rYX++KpzrylJwSW98t3Nk+U8XOl8FWKOgwtzdb8lXGf6zYwDUzeHMWfxasyg==
 
 jsonfile@^2.1.0:
   version "2.4.0"
@@ -5392,9 +5390,10 @@ react-native-geocoding@^0.4.0:
   resolved "https://registry.yarnpkg.com/react-native-geocoding/-/react-native-geocoding-0.4.0.tgz#e22c97500bfccc25273499ab3af87c27ac6ede8f"
   integrity sha512-iXIqdLHDGVyhWLJyWGRFRdvQa3hDQoCX4MLwKA9zja3gQxZ91v51CLGrbvxCckOGzoxu2/WA6e8TM74rrPxlsA==
 
-"react-native-maps@git+https://git@github.com/react-native-community/react-native-maps.git":
-  version "0.26.1"
-  resolved "git+https://git@github.com/react-native-community/react-native-maps.git#f8b255e40bef3a68fe3134c08a5219d7ffa173f9"
+react-native-maps-osmdroid@^0.23.0-rc4:
+  version "0.23.0-rc4"
+  resolved "https://registry.yarnpkg.com/react-native-maps-osmdroid/-/react-native-maps-osmdroid-0.23.0-rc4.tgz#7cc4c9bb344d8a3c30b098a030f9d500308885c8"
+  integrity sha512-9soWeBEA3aAeMjt8sWEeJ1NBdtRPde9KJL6EH1GPDSrpVY+CTznEMDys/T5M2yZxgkyZrJju5pR8gvcB+Dn2nw==
 
 react-native-pie-chart@^1.0.13:
   version "1.0.13"
